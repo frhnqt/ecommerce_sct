@@ -5,7 +5,7 @@
     <!-- Thank You Message -->
     <div class="text-center mb-4">
         <h1 class="display-4 text-success">Thank You for Your Purchase!</h1>
-        <p class="lead">Your order has been successfully placed.</p>
+        <p class="lead">Your order has been successfully.</p>
         <div class="alert alert-success">
             <h4 class="alert-heading">Order Code:</h4>
             <p class="mb-0 font-weight-bold">{{ $checkout->kodepesanan }}</p>
